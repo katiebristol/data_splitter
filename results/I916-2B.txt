@@ -1,0 +1,6 @@
+India_PINT.dat                                     AzFile = India_PINTorientaitionfile.az
+LAT:  0.00  LON:   0.00 REC:   0 SAM:   0
+!
+!   ID     TREAT  IC CD    J    CDECL CINCL  GDECL GINCL  BDCEL BINCL  SUSC  V/M
+!_______________________________________________________________________________
+I916-2B      0.0  Cm  0 1710.83 217.0  74.8  218.2  48.4  218.2  48.4    0    .0
