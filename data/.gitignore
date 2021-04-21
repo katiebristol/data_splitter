@@ -1,3 +1,3 @@
-# Ignore my files
-India_PINT.dat
-UV_2021_BA.dat
+*
+*/
+!.gitignore
