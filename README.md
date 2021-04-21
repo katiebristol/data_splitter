@@ -7,6 +7,8 @@
 This script was created to split a .dat file into separate sample files to cut
 down on data processing time. The result is individual sample files that are space-delimited.
 
+![Demo data.](/assets/input-output.png)
+
 ## How to use
 
 1) Put the .dat file that you want split into the /data/ folder. 
