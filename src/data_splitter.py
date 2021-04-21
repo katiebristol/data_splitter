@@ -1,7 +1,6 @@
 # Import libraries
 import os.path
 from os import path
-import shutil
 
 line_number = 0
 header = ''
@@ -9,7 +8,7 @@ add_header = False
 
 # Place your CryoPC3 file in the data directory and replace
 # "YOUR_FILE.dat" with your file name below. 
-with open("data/India_PINT.dat", "r") as cryopc3_file:
+with open("data/YOUR_FILE.dat", "r") as cryopc3_file:
     for line in cryopc3_file:
         line_number+=1
         next_line = line.strip()

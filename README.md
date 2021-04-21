@@ -7,6 +7,13 @@
 This script was created to split a .dat file into separate sample files to cut
 down on data processing time. The result is individual sample files that are space-delimited.
 
+## How to use
+
+1) Put the .dat file that you want split into the /data/ folder. 
+2) Go into the script (line 12) and change "YOUR_FILE.dat" to your data file name.
+3) Run the script.
+4) Check the /results/ folder for your new data files. 
+
 ## Inputs
 
 This script requires a .dat file placed into the /data/ directory. 
